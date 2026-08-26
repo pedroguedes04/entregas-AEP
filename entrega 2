@@ -1,5 +1,3 @@
-SPRINT 1 — Levantamento e modelagem (Semanas 7-9)
-
 Semana 7
 
 Revisar requisitos funcionais e não funcionais definidos na 1ª entrega
@@ -18,8 +16,6 @@ Fechar o diagrama de casos de uso completo
 Validar toda a modelagem com o grupo antes de começar a codar
 Preparar ambiente de desenvolvimento (compilador, repositório GitHub estruturado)
 
-SPRINT 2 — Implementação (Semanas 10-12)
-
 Semana 10
 
 Implementar o menu e a estrutura base do sistema
@@ -37,8 +33,6 @@ Semana 12
 Finalizar todas as 6 funcionalidades
 Revisar organização do código (nomes significativos, comentários)
 Compilar e testar execução básica no ambiente definido pelo professor
-
-SPRINT 3 — Testes, documentação e apresentação (Semanas 13-15)
 
 Semana 13
 
