@@ -1,0 +1,59 @@
+SPRINT 1 — Levantamento e modelagem (Semanas 7-9)
+
+Semana 7
+
+Revisar requisitos funcionais e não funcionais definidos na 1ª entrega
+Detalhar os casos de uso principais (ator, objetivo, pré-condições)
+Definir a arquitetura do código em C (módulos, estruturas de dados)
+
+Semana 8
+
+Modelar fluxos alternativos e pós-condições dos casos de uso
+Especificar as regras de validação (registro inexistente, código duplicado, limite de armazenamento)
+Ajustar fluxogramas se necessário, com base no que foi refinado
+
+Semana 9
+
+Fechar o diagrama de casos de uso completo
+Validar toda a modelagem com o grupo antes de começar a codar
+Preparar ambiente de desenvolvimento (compilador, repositório GitHub estruturado)
+
+SPRINT 2 — Implementação (Semanas 10-12)
+
+Semana 10
+
+Implementar o menu e a estrutura base do sistema
+Implementar 2 das 6 funcionalidades mínimas exigidas
+Incorporar o feedback recebido na apresentação/revisão (professor ou colegas) e ajustar o que for necessário no sistema ou na documentação
+
+Semana 11
+
+Implementar mais 2-3 funcionalidades
+Começar a tratar validações de entrada (duplicidade, limite, inexistência)
+Fazer uma revisão final geral (código, documentação, vídeo, GitHub) antes da entrega definitiva
+
+Semana 12
+
+Finalizar todas as 6 funcionalidades
+Revisar organização do código (nomes significativos, comentários)
+Compilar e testar execução básica no ambiente definido pelo professor
+
+SPRINT 3 — Testes, documentação e apresentação (Semanas 13-15)
+
+Semana 13
+
+Testar sistematicamente todas as funcionalidades e situações de erro
+Corrigir bugs encontrados
+Atualizar requisitos, caso alguma mudança tenha sido necessária durante a implementação
+
+Semana 14
+
+Escrever o manual do usuário (objetivo, compilação, execução, exemplos)
+Capturar telas das principais operações
+Redigir as considerações finais (resultados, limitações, aprendizados)
+
+Semana 15
+
+Gravar e editar o vídeo de apresentação (até 7 min, todos participando)
+Consolidar o documento final (Word/PDF com artefatos revisados)
+Atualizar GitHub (código, README, instruções) e liberar acesso ao vídeo
